@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16243551920",
+    "project_id": "btb-flutter-2025",
+    "storage_bucket": "btb-flutter-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16243551920:android:5afb4ec17f512fe6c15575",
+        "android_client_info": {
+          "package_name": "com.boxtobikers.btbflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTx_LBi6gOBcn9eb2dxRVLLGnM4DqquA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
